@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\Maximum\bin\Debug\Maximum.exe.config
+C:\Users\Nolan Pawelski\Desktop\Maximum\bin\Debug\Maximum.exe
+C:\Users\Nolan Pawelski\Desktop\Maximum\bin\Debug\Maximum.pdb
+C:\Users\Nolan Pawelski\Desktop\Maximum\obj\Debug\Maximum.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\Maximum\obj\Debug\Maximum.exe
+C:\Users\Nolan Pawelski\Desktop\Maximum\obj\Debug\Maximum.pdb
